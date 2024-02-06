@@ -2,7 +2,7 @@
   "name": "starting-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AjayKumarKK.github.io/starting-react",
+  "homepage": "https://ajaykumar-kk.github.io/starting-react",
   "dependencies": {
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
